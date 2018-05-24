@@ -1,1 +1,1 @@
-Remove "emf.exe" @760,211! More information can be found in <#404984312501501955>.
+Information can be found in <#404984312501501955>.
